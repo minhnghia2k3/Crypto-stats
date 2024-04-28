@@ -2,16 +2,17 @@
 
 Personal project.
 
-Website allow user to see their crypto transactions.
+Website allow user to manage their crypto transactions.
 
 ## Features
 
-User can see their transactions
+Managing users's transactions.
+High Reliability, Security performance when every single transaction has been encrypted.
 
 ## Technologies
 
-- NextJS (UI)
-- NestJS (API)
+- NextJS (Front-end)
+- NestJS (Back-end)
 - MongoDB (Database)
 - Coinbase (External APIs)
 
