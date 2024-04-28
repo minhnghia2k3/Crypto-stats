@@ -6,8 +6,9 @@ Website allow user to manage their crypto transactions.
 
 ## Features
 
-Managing users's transactions.
+- Allow users to manage their cryptocurrency portfolios within the app. Users can track their holdings, view portfolio performance over time, and analyze asset allocation.
 High Reliability, Security performance when every single transaction has been encrypted.
+- Users can filter transactions by date, currency, or type (buy/sell/transfer) and generate customizable reports for tax or auditing purposes.
 
 ## Technologies
 
